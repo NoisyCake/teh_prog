@@ -1,0 +1,24 @@
+﻿  main.cpp
+C:\Users\Ivan\Desktop\C++\point\point\main.cpp(34,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\point\point\main.cpp(34,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\point\point\main.cpp(78,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\point\point\main.cpp(78,44): warning C4244:         with
+C:\Users\Ivan\Desktop\C++\point\point\main.cpp(78,44): warning C4244:         [
+C:\Users\Ivan\Desktop\C++\point\point\main.cpp(78,44): warning C4244:             T=float
+C:\Users\Ivan\Desktop\C++\point\point\main.cpp(78,44): warning C4244:         ]
+C:\Users\Ivan\Desktop\C++\point\point\main.cpp(78,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\point\point\main.cpp(78,41): warning C4244:         with
+C:\Users\Ivan\Desktop\C++\point\point\main.cpp(78,41): warning C4244:         [
+C:\Users\Ivan\Desktop\C++\point\point\main.cpp(78,41): warning C4244:             T=float
+C:\Users\Ivan\Desktop\C++\point\point\main.cpp(78,41): warning C4244:         ]
+C:\Users\Ivan\Desktop\C++\point\point\main.cpp(79,51): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\point\point\main.cpp(79,51): warning C4244:         with
+C:\Users\Ivan\Desktop\C++\point\point\main.cpp(79,51): warning C4244:         [
+C:\Users\Ivan\Desktop\C++\point\point\main.cpp(79,51): warning C4244:             T=float
+C:\Users\Ivan\Desktop\C++\point\point\main.cpp(79,51): warning C4244:         ]
+C:\Users\Ivan\Desktop\C++\point\point\main.cpp(79,43): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\point\point\main.cpp(79,43): warning C4244:         with
+C:\Users\Ivan\Desktop\C++\point\point\main.cpp(79,43): warning C4244:         [
+C:\Users\Ivan\Desktop\C++\point\point\main.cpp(79,43): warning C4244:             T=float
+C:\Users\Ivan\Desktop\C++\point\point\main.cpp(79,43): warning C4244:         ]
+  point.vcxproj -> C:\Users\Ivan\Desktop\C++\point\x64\Debug\point.exe
