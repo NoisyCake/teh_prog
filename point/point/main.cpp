@@ -110,11 +110,13 @@ public:
 
 int main() 
 {
+    int object;
+
     sf::RenderWindow window(sf::VideoMode(1920, 1080), "SFML Point Example");
 
     Tline first_line(960, 540, 250, 250, sf::Color::Red);
 
-
+    cout << "AAAAAAAAAAAAAAAAAA" << endl;
 
  //   Point first(490, 300, sf::Color::Blue);
 

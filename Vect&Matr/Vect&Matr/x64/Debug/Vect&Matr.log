@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Ivan\Desktop\C++\Vect&Matr\Vect&Matr\main.cpp(386,7): warning C4930: vect v3(void): функция с прототипом не вызвана (предполагалось определение переменной?)
+C:\Users\Ivan\Desktop\C++\Vect&Matr\Vect&Matr\main.cpp(424,7): warning C4930: matr m3(void): функция с прототипом не вызвана (предполагалось определение переменной?)
+  Vect&Matr.vcxproj -> C:\Users\Ivan\Desktop\C++\Vect&Matr\x64\Debug\Vect&Matr.exe

@@ -11,9 +11,7 @@ struct tovar
 	tovar* next;
 };
 
-tovar* tlist = NULL;
-
-void AddBeginning(string n, float p, int am)
+void AddBeginning(tovar*& tlist, string n, float p, int am)
 {
 	tovar* first = new tovar;
 	first->name = n;
@@ -23,11 +21,11 @@ void AddBeginning(string n, float p, int am)
 	tlist = first;
 }
 
-void AddEnd(string n, float p, int am)
+void AddEnd(tovar*& tlist, string n, float p, int am)
 {
 	if (tlist == NULL)
 	{
-		AddBeginning(n, p, am);
+		AddBeginning(tlist, n, p, am);
 	}
 	else
 	{
@@ -46,11 +44,11 @@ void AddEnd(string n, float p, int am)
 	}
 }
 
-void AddAfter(string n, float p, int am, string nafter)
+void AddAfter(tovar* tlist, string n, float p, int am, string nafter)
 {
 	if (tlist == NULL)
 	{
-		AddBeginning(n, p, am);
+		AddBeginning(tlist, n, p, am);
 	}
 	else
 	{
@@ -75,11 +73,11 @@ void AddAfter(string n, float p, int am, string nafter)
 	}
 }
 
-void AddBefore(string n, float p, int am, string nbefore)
+void AddBefore(tovar* tlist, string n, float p, int am, string nbefore)
 {
 	if (tlist == NULL || tlist->name == nbefore)
 	{
-		AddBeginning(n, p, am);
+		AddBeginning(tlist, n, p, am);
 	}
 	else
 	{
@@ -106,7 +104,7 @@ void AddBefore(string n, float p, int am, string nbefore)
 	}
 }
 
-void Delete(string n)
+void Delete(tovar*& tlist, string n)
 {
 	if (tlist == NULL)
 	{
@@ -142,7 +140,7 @@ void Delete(string n)
 	delete tmp;
 }
 
-void PrintList()
+void PrintList(tovar* tlist)
 {
 	if (tlist == NULL)
 	{
@@ -150,12 +148,11 @@ void PrintList()
 	}
 	else
 	{
-		tovar* tmp = tlist;
-		while (tmp != NULL)
+		while (tlist != NULL)
 		{
-			cout << "Name: " << tmp->name << "; Price: " << tmp->price 
-				 << "; Amount: " << tmp->amount << endl;
-			tmp = tmp->next;
+			cout << "Name: " << tlist->name << "; Price: " << tlist->price
+				 << "; Amount: " << tlist->amount << endl;
+			tlist = tlist->next;
 		}
 	}
 }
@@ -163,6 +160,7 @@ void PrintList()
 
 int main()
 {
+	tovar* tlist = NULL;
 	short action;
 	string tovar;
 	string name;
@@ -186,7 +184,7 @@ int main()
 			cin >> price;
 			cout << "Input amount: ";
 			cin >> amount;
-			AddBeginning(name, price, amount);
+			AddBeginning(tlist, name, price, amount);
 		}
 		else if (action == 2)
 		{
@@ -196,7 +194,7 @@ int main()
 			cin >> price;
 			cout << "Input amount: ";
 			cin >> amount;
-			AddEnd(name, price, amount);
+			AddEnd(tlist, name, price, amount);
 		}
 		else if (action == 3)
 		{
@@ -208,7 +206,7 @@ int main()
 			cin >> amount;
 			cout << "Input previous element: ";
 			cin >> tovar;
-			AddAfter(name, price, amount, tovar);
+			AddAfter(tlist, name, price, amount, tovar);
 		}
 		else if (action == 4)
 		{
@@ -220,17 +218,17 @@ int main()
 			cin >> amount;
 			cout << "Input next element: ";
 			cin >> tovar;
-			AddBefore(name, price, amount, tovar);
+			AddBefore(tlist, name, price, amount, tovar);
 		}
 		else if (action == 5)
 		{
 			cout << "Input name: ";
 			cin >> tovar;
-			Delete(tovar);
+			Delete(tlist, tovar);
 		}
 		else if (action == 6)
 		{
-			PrintList();
+			PrintList(tlist);
 		}
 		else
 		{
