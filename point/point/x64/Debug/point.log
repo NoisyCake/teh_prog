@@ -1,25 +1,128 @@
 ﻿  main.cpp
-C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(34,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(34,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(78,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
-C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(78,44): warning C4244:         with
-C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(78,44): warning C4244:         [
-C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(78,44): warning C4244:             T=float
-C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(78,44): warning C4244:         ]
-C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(78,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
-C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(78,41): warning C4244:         with
-C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(78,41): warning C4244:         [
-C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(78,41): warning C4244:             T=float
-C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(78,41): warning C4244:         ]
-C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(79,51): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
-C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(79,51): warning C4244:         with
-C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(79,51): warning C4244:         [
-C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(79,51): warning C4244:             T=float
-C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(79,51): warning C4244:         ]
-C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(79,43): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
-C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(79,43): warning C4244:         with
-C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(79,43): warning C4244:         [
-C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(79,43): warning C4244:             T=float
-C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(79,43): warning C4244:         ]
-C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(113,9): warning C4101: object: неиспользованная локальная переменная
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(74,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(74,44): warning C4244:         with
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(74,44): warning C4244:         [
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(74,44): warning C4244:             T=float
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(74,44): warning C4244:         ]
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(74,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(74,41): warning C4244:         with
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(74,41): warning C4244:         [
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(74,41): warning C4244:             T=float
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(74,41): warning C4244:         ]
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(75,51): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(75,51): warning C4244:         with
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(75,51): warning C4244:         [
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(75,51): warning C4244:             T=float
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(75,51): warning C4244:         ]
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(75,43): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(75,43): warning C4244:         with
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(75,43): warning C4244:         [
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(75,43): warning C4244:             T=float
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(75,43): warning C4244:         ]
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(104,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(105,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(123,65): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(123,65): warning C4244:         with
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(123,65): warning C4244:         [
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(123,65): warning C4244:             T=float
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(123,65): warning C4244:         ]
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(123,51): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(123,51): warning C4244:         with
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(123,51): warning C4244:         [
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(123,51): warning C4244:             T=float
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(123,51): warning C4244:         ]
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(124,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(124,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(162,45): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(162,45): warning C4244:         with
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(162,45): warning C4244:         [
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(162,45): warning C4244:             T=float
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(162,45): warning C4244:         ]
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(162,42): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(162,42): warning C4244:         with
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(162,42): warning C4244:         [
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(162,42): warning C4244:             T=float
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(162,42): warning C4244:         ]
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(163,52): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(163,52): warning C4244:         with
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(163,52): warning C4244:         [
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(163,52): warning C4244:             T=float
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(163,52): warning C4244:         ]
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(163,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(163,44): warning C4244:         with
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(163,44): warning C4244:         [
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(163,44): warning C4244:             T=float
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(163,44): warning C4244:         ]
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(164,63): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(164,63): warning C4244:         with
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(164,63): warning C4244:         [
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(164,63): warning C4244:             T=float
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(164,63): warning C4244:         ]
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(164,49): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(164,49): warning C4244:         with
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(164,49): warning C4244:         [
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(164,49): warning C4244:             T=float
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(164,49): warning C4244:         ]
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(165,53): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(165,53): warning C4244:         with
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(165,53): warning C4244:         [
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(165,53): warning C4244:             T=float
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(165,53): warning C4244:         ]
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(165,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(165,44): warning C4244:         with
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(165,44): warning C4244:         [
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(165,44): warning C4244:             T=float
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(165,44): warning C4244:         ]
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(183,50): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(183,50): warning C4244:         with
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(183,50): warning C4244:         [
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(183,50): warning C4244:             T=float
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(183,50): warning C4244:         ]
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(183,46): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(183,46): warning C4244:         with
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(183,46): warning C4244:         [
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(183,46): warning C4244:             T=float
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(183,46): warning C4244:         ]
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(184,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(184,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(211,51): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(211,51): warning C4244:         with
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(211,51): warning C4244:         [
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(211,51): warning C4244:             T=float
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(211,51): warning C4244:         ]
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(211,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(211,48): warning C4244:         with
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(211,48): warning C4244:         [
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(211,48): warning C4244:             T=float
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(211,48): warning C4244:         ]
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(212,56): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(212,56): warning C4244:         with
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(212,56): warning C4244:         [
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(212,56): warning C4244:             T=float
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(212,56): warning C4244:         ]
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(212,50): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(212,50): warning C4244:         with
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(212,50): warning C4244:         [
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(212,50): warning C4244:             T=float
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(212,50): warning C4244:         ]
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(213,80): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(213,80): warning C4244:         with
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(213,80): warning C4244:         [
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(213,80): warning C4244:             T=float
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(213,80): warning C4244:         ]
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(213,55): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(213,55): warning C4244:         with
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(213,55): warning C4244:         [
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(213,55): warning C4244:             T=float
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(213,55): warning C4244:         ]
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(214,75): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(214,75): warning C4244:         with
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(214,75): warning C4244:         [
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(214,75): warning C4244:             T=float
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(214,75): warning C4244:         ]
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(214,50): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(214,50): warning C4244:         with
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(214,50): warning C4244:         [
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(214,50): warning C4244:             T=float
+C:\Users\Ivan\Desktop\C++\teh_prog\point\point\main.cpp(214,50): warning C4244:         ]
   point.vcxproj -> C:\Users\Ivan\Desktop\C++\teh_prog\point\x64\Debug\point.exe
